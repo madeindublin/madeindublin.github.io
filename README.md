@@ -154,7 +154,7 @@ To build the site to publish it run:
 
 To test the site while editing entries, html, etc. run:
 
-	grunt serve
+	grunt shell:serve
 	
 To watch for changes in the entries, template etc and rebuild it automatically run:
 
