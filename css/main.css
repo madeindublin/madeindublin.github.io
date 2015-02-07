@@ -1589,6 +1589,9 @@ h6 {
 .icon-search:before {
   content: "\f101";
 }
+.icon-twitter {
+  padding-top: 2px;
+}
 .icon-twitter:before {
   content: "\f102";
 }
