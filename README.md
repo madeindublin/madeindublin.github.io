@@ -160,8 +160,9 @@ To watch for changes in the entries, template etc and rebuild it automatically r
 
 	grunt watch
 
-**Unfamiliar with `npm`? Don't have node installed?** That's okay. npm stands for [node packaged modules](http://npmjs.org/) and is a way to manage development dependencies through node.js. [Download and install node.js](http://nodejs.org/download/) before proceeding.
-
+<!--
+ **Unfamiliar with `npm`? Don't have node installed?** That's okay. npm stands for [node packaged modules](http://npmjs.org/) and is a way to manage development dependencies through node.js. [Download and install node.js](http://nodejs.org/download/) before proceeding.
+ -->
 ## Contact info
 
 Who's behind this?

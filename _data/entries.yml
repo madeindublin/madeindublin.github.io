@@ -45,7 +45,7 @@
 - category: faq
   q: How do I add my company?
   a: >
-      If you meet criteria, submit this <a href="https://docs.google.com/forms/d/1jI685ifs3zS6Rr1INYs8baKYdpVWl2Uphfof6i5MZpY/viewform" target="_blank">Google form</a> and expect response in about a week.
+      If you meet criteria, submit this <b><a class="typeform-share link" href="https://madeindublin.typeform.com/to/kCpBqI" data-mode="1" target="_blank">form</a></b> and expect response in about a week.
       If you know your way around Github, submit a pull request following these <a href="https://github.com/madeindublin/madeindublin.github.io#how-do-i-add-my-company" target="_blank">steps</a>.
 
 - category: faq
