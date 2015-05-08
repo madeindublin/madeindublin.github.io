@@ -4,13 +4,6 @@
   description: Cloud based reconciliation software for the Funds Industry
   twitter: fundrecs
 
-- name: Pushstartr
-  category: beta
-  url: pushstartr.com
-  description: Tools for managing, accessing and storing your data.
-  twitter: pushstartr
-  facebook: pushstartr
-
 - name: CityHook
   category: startup
   url: cityhook.com
