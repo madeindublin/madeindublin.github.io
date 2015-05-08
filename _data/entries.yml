@@ -1,11 +1,3 @@
-- name: TRIBEfoodie
-  category: beta
-  url: tribefoodie.com
-  description: >
-      TRIBEfoodie creates special dinner experiences for people that love good food and are crazy about dining out.
-  twitter: tribefoodie
-  facebook: tribefoodie
-
 - name: Fund Recs
   category: startup
   url: fundrecs.com
